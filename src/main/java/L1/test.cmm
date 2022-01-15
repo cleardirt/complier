@@ -1,0 +1,6 @@
+struct{int a;} main(){
+    struct{
+        float d;
+    }c;
+    return c;
+}
